@@ -24,7 +24,7 @@ Nesta parte, o app ainda não possui animacões. Ele contem apenas a estrutura p
 
 ```bash
 npm install
-npm start
+npx expo start
 ```
 
 Depois, abra no Expo Go ou use a opcão web mostrada pelo terminal.
